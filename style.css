@@ -1,0 +1,38 @@
+body {background-color: #000000;}
+
+h2 {font-family: Georgia serif;}
+
+header {background-image: url(tmblogo.png);
+        padding-left: 250px;
+        }
+
+#wrapper {margin: 0 auto;
+		 width: 80%;
+        min-width: 960px;
+        max-width: 1200px;
+		 background-color: #d3d3d3;
+		 }
+
+nav { font-weight: bold;
+	 letter-spacing: 0.1em;
+    float: left;
+    width: 200px;
+    font-size: 1.5em;
+	 }
+
+nav ul {list-style-type: none;}
+
+
+footer {font-size: 1em;
+        text-align: center;
+        padding-top: 10px;
+        font-style: italic;
+
+}
+
+main {padding: 30px 30px;
+    text-align: center;
+    font-family: Arial, serif;
+    display: block;}
+
+main ul {list-style-type: none;}
